@@ -10,7 +10,6 @@ You can refer to the proposed research paper [here](http://tabula.cyburl.in)
 
 # Features
 
-# 
 
 *   <span style="font-size: 16pt; line-height: 21pt; text-indent: 2em;">Added encryption functionality.</span>
 
